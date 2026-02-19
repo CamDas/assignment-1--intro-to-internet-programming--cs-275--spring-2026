@@ -1,0 +1,50 @@
+header {
+  background-color: #6bcedb;
+  .agdasima-regular {
+    font-family: "Agdasima", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+  font: normal small-caps normal 50px/1.4 agdasima, sans-serif;
+  width: `100%`;
+  height: 200px;
+  text-align: center;
+}
+
+section {
+  background-color: #ffffff;
+  font-size: 30px;
+  .montserrat {
+    font-family: "Montserrat", sans-serif;
+    font-weight: <weight>;
+    font-style: normal;
+  }
+
+  width: 80%;
+  margin: 0 auto;
+  padding: 20px;
+  height: 100vh;
+  text-align: center;
+}
+
+nav {
+  background-color: #778899;
+  width: 80%;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+body {
+  background-color: #afeeee;
+  font: normal small-caps normal 22px/1.4 Montserrat, sans-serif;
+
+  .waterfall {
+    height: 300px;
+    width: 500px;
+    display: block;
+    margin: 0 auto;
+    padding-top: 20px;
+    padding-bottom: 20px;
+  }
+}
